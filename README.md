@@ -36,13 +36,14 @@ Drop the files on any static host:
 
 | Project | URL |
 |---------|-----|
-| Official site | [kalimero.rocks](https://kalimero.rocks/) |
-| Picaboo (art shop) | [picaboo.netlify.app](https://picaboo.netlify.app/) |
-| Nest In Pace | [nest-in-pace.netlify.app](https://nest-in-pace.netlify.app/) |
-| Rock, Ghost, Rock! | [rockghostsrock.digital](https://rockghostsrock.digital/) |
-| Yam What Yam | [yamwhatyam.netlify.app](https://yamwhatyam.netlify.app/) |
+| Official site | [kalimero.rink](https://kalimero.ink/) |
+| Picaboo (art shop) | [picaboo.netlify.app](https://picaboo.vercel.app/) |
+| Nest In Pace | [nest-in-pace.netlify.app](https://nest-in-pace.vercel.app/) |
+| Rock, Ghost, Rock! | [rockghostsrock.digital](https://rockghostsrock.digitalpresss.org/) |
+| Yam What Yam | [yamwhatyam.netlify.app](https://yamwhatyam.vercel.app/) |
 | PRNGRFX | [xxx19.digitalpress.blog](https://xxx19.digitalpress.blog/) |
-| Book-O-Matics | [bookomatic.hstn.me](https://bookomatic.hstn.me/) |
+| Book-O-Matics | [ko-fi.com/kalimero666/shop] 
+([https://ko-fi.com/kalimero666/shop](https://ko-fi.com/kalimero_666/shop) |
 | Ko-Fi | [ko-fi.com/kalimero666](https://ko-fi.com/kalimero666) |
 | Tipeee | [tipeee.com/kalimero](https://www.tipeee.com/kalimero) |
 | GitHub | [github.com/kalimero666](https://github.com/kalimero666) |
